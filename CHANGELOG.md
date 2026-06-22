@@ -11,3 +11,4 @@ Incremental documentation notes for TokenWise.
 - Document the o200k_base vs cl100k_base encodings used per model.
 - Note the /tokenwise/ base path needed for GitHub Pages builds.
 - Add a troubleshooting note about the large-bundle build warning.
+- Document the Stat and Divider UI helper components in App.tsx.
