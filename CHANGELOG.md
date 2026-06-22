@@ -12,3 +12,4 @@ Incremental documentation notes for TokenWise.
 - Note the /tokenwise/ base path needed for GitHub Pages builds.
 - Add a troubleshooting note about the large-bundle build warning.
 - Document the Stat and Divider UI helper components in App.tsx.
+- Record the source of the dark-theme radial-gradient background.
