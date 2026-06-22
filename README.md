@@ -39,6 +39,14 @@ npm run lint     # eslint
 
 Built with React 19, TypeScript, Vite and Tailwind CSS v4.
 
+## Run locally
+
+```bash
+cd D:\tokenwise
+npm run dev      # start the app
+git status       # repo works normally
+```
+
 ## License
 
 MIT
