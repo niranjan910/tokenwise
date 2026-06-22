@@ -7,3 +7,4 @@ Incremental documentation notes for TokenWise.
 - Record official pricing source links for each provider in models.ts.
 - Remind editors to bump PRICES_LAST_UPDATED whenever prices change.
 - Explain how the 'cheapest' badge is derived from total cost.
+- Describe the expected-output-tokens input and its effect on cost.
