@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(60rem 60rem at 80% -10%, rgba(99, 102, 241, 0.12), transparent 60%),
+    radial-gradient(50rem 50rem at -10% 10%, rgba(168, 85, 247, 0.1), transparent 55%),
+    #0a0a0f;
+  color: #e5e7eb;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* thin custom scrollbar for the textarea */
+textarea {
+  scrollbar-width: thin;
+  scrollbar-color: #3f3f46 transparent;
+}
