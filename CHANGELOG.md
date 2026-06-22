@@ -14,3 +14,4 @@ Incremental documentation notes for TokenWise.
 - Document the Stat and Divider UI helper components in App.tsx.
 - Record the source of the dark-theme radial-gradient background.
 - Add a contributing note: edit src/data/models.ts to update the model list.
+- Document the cost() helper and per-1M-token pricing math.
