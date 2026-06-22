@@ -6,3 +6,4 @@ Incremental documentation notes for TokenWise.
 - Document the per-model estimateFactor used for non-OpenAI models.
 - Record official pricing source links for each provider in models.ts.
 - Remind editors to bump PRICES_LAST_UPDATED whenever prices change.
+- Explain how the 'cheapest' badge is derived from total cost.
