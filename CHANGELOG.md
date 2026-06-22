@@ -10,3 +10,4 @@ Incremental documentation notes for TokenWise.
 - Describe the expected-output-tokens input and its effect on cost.
 - Document the o200k_base vs cl100k_base encodings used per model.
 - Note the /tokenwise/ base path needed for GitHub Pages builds.
+- Add a troubleshooting note about the large-bundle build warning.
